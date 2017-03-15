@@ -358,7 +358,7 @@ Image(graph.create_png())
 
 
 
-![png](output_18_0.png)
+![png](https://github.com/x7zhang/decision-tree-for-liver-patients-data/blob/master/graphs/output_18_0.png?raw=true)
 
 
 
